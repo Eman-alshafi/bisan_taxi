@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:taxiapp/homescrens/locationscreen.dart';
+
 import 'package:taxiapp/homescrens/mapscreen.dart';
 import 'package:taxiapp/signupscreens/signupscreen.dart';
 

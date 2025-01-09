@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:taxiapp/homescrens/homescreen.dart';
 
-import 'package:taxiapp/signupscreens/signuptwo.dart';
-
 class locationscreen extends StatelessWidget {
   const locationscreen({super.key});
 
@@ -118,6 +116,7 @@ class LocationPermissionScreen extends StatelessWidget {
                   // Allow While Using the App button
                   ElevatedButton(
                     onPressed: () {
+
                       // Handle precise location toggle
                     },
                     style: ElevatedButton.styleFrom(
